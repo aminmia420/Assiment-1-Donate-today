@@ -1,0 +1,227 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container{
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 700px;
+    margin-bottom: 100px;
+    margin-top: 0;
+}
+.top-banner{
+    
+    text-align: center;
+}
+.header{
+    font-weight: 700;
+    color: #fff;
+    font-size: 3rem;
+}
+.para1{
+    color: #fff;
+    font-weight: 500;
+}
+
+
+.Donate{
+    display: flex;
+    justify-content: center;
+}
+.Donate > div{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color:beige;
+}
+div{
+    color: gray;
+    font-weight: 700;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+}
+.div1{
+    border: 2px solid tomato;
+    color: blue;
+}
+.para{
+    color: gray;
+    font-weight: 500;
+}
+h4{
+    font-weight: 500;
+}
+.Today{
+    text-align: center;
+}
+hr{
+    width: 60%;
+}
+.donate-btn{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 22px;
+    color: #fff;
+    border-radius: 5px;
+    
+}
+.Donate-plan{
+    text-align: center;
+    margin-top: 100px;
+}
+h1{
+    color: black;
+}
+
+section{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    
+}
+.card1{
+    
+    width: 350px;
+    height: 300px;
+    background-color:gainsboro; 
+    border-radius: 5px;
+    
+}
+.card2{
+    margin-left: 50px;
+    width: 350px;
+    height: 300px;
+    background-color:bisque; 
+    border-radius: 5px;
+}
+.card3{
+    margin-left: 50px;
+    width: 350px;
+    height: 300px;
+    background-color:aliceblue; 
+    border-radius: 5px;
+}
+#food{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+#shelter{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+#frame{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.card-para{
+    color: gray;
+    font-size: 14px;
+    font-weight: 400;
+}
+.food{
+    margin-left: 20px;
+}
+.extra-section{
+    
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+.container3{
+    display: flex;
+    
+}
+.half-width{
+    margin-top: 50px;
+    width: 40%;
+}
+.extra-img > img {
+    width: 80%;
+    margin-left: 5%;
+    border-radius: 5px;
+    
+}
+.link-btn{
+    
+    background-color:magenta;
+    padding: 15px 35px;
+    text-decoration: none;
+    border-radius: 5px;
+    
+}
+.container4{
+    display: flex;
+}
+.second-img>img{
+    width: 70%;
+    margin-left: 50px;
+    border-radius: 5px;
+    
+}
+.full-width{
+    margin-right: 50px;
+}
+.update{
+    text-align: center;
+}
+form{
+    
+    margin: 0 auto;
+    width: 60%;
+    height: 100px;
+    background-color: burlywood;
+}
+.email{
+    border-radius: 5px;
+    margin-top: 3.5%;
+    border-style: none;
+    padding: 10px 10px;
+    font-size: 20px;
+    background-color: aqua;
+    
+    
+}
+button{
+    border-radius: 5px;
+    border-style: none;
+    padding: 10px 10px;
+    font-size: 20px;
+    background-color: deeppink;
+    
+}
+.extra{
+    text-align: center;
+    
+}
+
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    
+}
+.foter{
+    color: rgb(173, 97, 97);
+    font-style: italic;
+    
+}
+.last{
+    text-align: center;
+    margin-top: 50px;
+}
+.last-para{
+    color: #fff;
+    font-size: 14px;
+    font-weight: normal;
+
+}
